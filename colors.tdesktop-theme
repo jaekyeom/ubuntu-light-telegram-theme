@@ -246,7 +246,7 @@ emojiPanHeaderFg: COLOR_DARK;                   // Sticker panel title text
 emojiPanHeaderBg: COLOR_LGRAY;                  // Sticker panel top bar background
 stickerPanDeleteBg: COLOR_LGRAY;
 stickerPanDeleteFg: COLOR_RED;
-stickerPreviewBg: COLOR_LGRAY;                    // Sticker preview background
+stickerPreviewBg: #ffffffb0;                    // Sticker preview background
 
 historyTextInFg: COLOR_DARK;                    // Incoming messages TEXT color
 historyTextOutFg: COLOR_DARK;                   // Outgoing messages TEXT color
